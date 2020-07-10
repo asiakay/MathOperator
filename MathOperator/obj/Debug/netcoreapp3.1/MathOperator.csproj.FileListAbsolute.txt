@@ -1,0 +1,12 @@
+/Users/asialakaygradyloves/Desktop/repos/MathOperator/bin/Debug/netcoreapp3.1/MathOperator.deps.json
+/Users/asialakaygradyloves/Desktop/repos/MathOperator/bin/Debug/netcoreapp3.1/MathOperator.runtimeconfig.json
+/Users/asialakaygradyloves/Desktop/repos/MathOperator/bin/Debug/netcoreapp3.1/MathOperator.runtimeconfig.dev.json
+/Users/asialakaygradyloves/Desktop/repos/MathOperator/bin/Debug/netcoreapp3.1/MathOperator.dll
+/Users/asialakaygradyloves/Desktop/repos/MathOperator/bin/Debug/netcoreapp3.1/MathOperator.pdb
+/Users/asialakaygradyloves/Desktop/repos/MathOperator/obj/Debug/netcoreapp3.1/MathOperator.csprojAssemblyReference.cache
+/Users/asialakaygradyloves/Desktop/repos/MathOperator/obj/Debug/netcoreapp3.1/MathOperator.AssemblyInfoInputs.cache
+/Users/asialakaygradyloves/Desktop/repos/MathOperator/obj/Debug/netcoreapp3.1/MathOperator.AssemblyInfo.cs
+/Users/asialakaygradyloves/Desktop/repos/MathOperator/obj/Debug/netcoreapp3.1/MathOperator.csproj.CoreCompileInputs.cache
+/Users/asialakaygradyloves/Desktop/repos/MathOperator/obj/Debug/netcoreapp3.1/MathOperator.dll
+/Users/asialakaygradyloves/Desktop/repos/MathOperator/obj/Debug/netcoreapp3.1/MathOperator.pdb
+/Users/asialakaygradyloves/Desktop/repos/MathOperator/obj/Debug/netcoreapp3.1/MathOperator.genruntimeconfig.cache
