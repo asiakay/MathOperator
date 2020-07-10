@@ -1,0 +1,12 @@
+/Users/asialakaygradyloves/Desktop/repos/AdLibStory/bin/Debug/netcoreapp3.1/AdLibStory.deps.json
+/Users/asialakaygradyloves/Desktop/repos/AdLibStory/bin/Debug/netcoreapp3.1/AdLibStory.runtimeconfig.json
+/Users/asialakaygradyloves/Desktop/repos/AdLibStory/bin/Debug/netcoreapp3.1/AdLibStory.runtimeconfig.dev.json
+/Users/asialakaygradyloves/Desktop/repos/AdLibStory/bin/Debug/netcoreapp3.1/AdLibStory.dll
+/Users/asialakaygradyloves/Desktop/repos/AdLibStory/bin/Debug/netcoreapp3.1/AdLibStory.pdb
+/Users/asialakaygradyloves/Desktop/repos/AdLibStory/obj/Debug/netcoreapp3.1/AdLibStory.csprojAssemblyReference.cache
+/Users/asialakaygradyloves/Desktop/repos/AdLibStory/obj/Debug/netcoreapp3.1/AdLibStory.AssemblyInfoInputs.cache
+/Users/asialakaygradyloves/Desktop/repos/AdLibStory/obj/Debug/netcoreapp3.1/AdLibStory.AssemblyInfo.cs
+/Users/asialakaygradyloves/Desktop/repos/AdLibStory/obj/Debug/netcoreapp3.1/AdLibStory.csproj.CoreCompileInputs.cache
+/Users/asialakaygradyloves/Desktop/repos/AdLibStory/obj/Debug/netcoreapp3.1/AdLibStory.dll
+/Users/asialakaygradyloves/Desktop/repos/AdLibStory/obj/Debug/netcoreapp3.1/AdLibStory.pdb
+/Users/asialakaygradyloves/Desktop/repos/AdLibStory/obj/Debug/netcoreapp3.1/AdLibStory.genruntimeconfig.cache
